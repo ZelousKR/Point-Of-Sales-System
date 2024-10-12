@@ -198,9 +198,9 @@
             this.dgv_users.AllowUserToAddRows = false;
             this.dgv_users.AllowUserToDeleteRows = false;
             this.dgv_users.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgv_users.Location = new System.Drawing.Point(492, 134);
+            this.dgv_users.Location = new System.Drawing.Point(471, 134);
             this.dgv_users.Name = "dgv_users";
-            this.dgv_users.Size = new System.Drawing.Size(658, 461);
+            this.dgv_users.Size = new System.Drawing.Size(706, 461);
             this.dgv_users.TabIndex = 64;
             // 
             // panel1
@@ -225,7 +225,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.BackColor = System.Drawing.Color.DarkBlue;
             this.ClientSize = new System.Drawing.Size(1189, 729);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.txt_userid);

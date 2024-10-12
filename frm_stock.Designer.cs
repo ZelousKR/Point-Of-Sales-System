@@ -99,7 +99,7 @@
             this.pb_item_image.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.pb_item_image.Location = new System.Drawing.Point(103, 3);
             this.pb_item_image.Name = "pb_item_image";
-            this.pb_item_image.Size = new System.Drawing.Size(513, 119);
+            this.pb_item_image.Size = new System.Drawing.Size(513, 124);
             this.pb_item_image.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pb_item_image.TabIndex = 76;
             this.pb_item_image.TabStop = false;
